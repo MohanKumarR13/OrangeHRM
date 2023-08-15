@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HRM Test Suite">
+<test name="Pending Leave Request Test Case">
+<classes>
+<class name="testcases.TestPendingLeaveRequest">
+</class>
+</classes>
+</test>
+<test name="Check User Role test case">
+<classes>
+<class name="testcases.TestUserRole"></class>
+</classes>
+</test>
+</suite>
